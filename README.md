@@ -14,7 +14,7 @@ Create a new app in Django project
 Enter the code for admin.py and models.py
 
 ## STEP 4:
-Execute Django admin and create details for 10 books
+Execute Django admin and create details for 10 bank account
 
 # PROGRAM
 
@@ -83,7 +83,13 @@ urlpatterns = [
 ~~~
 
 # OUTPUT
-<img width="1365" height="638" alt="image" src="https://github.com/user-attachments/assets/9b75036f-ac28-4e3d-84a0-1dc1626651bc" />
+![screenshot 2025 8 45](https://github.com/user-attachments/assets/bf8ae54f-e6a4-4704-b54e-481b8b06a306)
+
+![screenshot 2025 8 50](https://github.com/user-attachments/assets/03a4b7f4-ac0c-4566-9d03-3f78434dd9b7)
+
+![screenshot 2025 9 15](https://github.com/user-attachments/assets/616621ab-4ffb-4ad7-9cdb-dc3e47a7401c)
+
+
 
 
 
